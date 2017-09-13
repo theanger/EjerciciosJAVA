@@ -15,6 +15,8 @@ public class JavaApplication1 {
 
     /**
      * @param args the command line arguments
+     * Se debe mostrar el siguiente mensaje:
+     * "Esto funciona de maravilla"
      */
     public static void main(String[] args) {
         
@@ -23,7 +25,7 @@ public class JavaApplication1 {
         Scanner miscan= new Scanner(System.in);
         System.out.println("Ingrese número: ");
         numuno= miscan.nextInt();
-        System.out.println("El numero es: "+ numuno);
+        System.out.println("El numero es: " +numuno);
         // TODO code application logic here
     }
     
