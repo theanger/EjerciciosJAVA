@@ -17,6 +17,7 @@ public class JavaApplication1 {
      * @param args the command line arguments
      * Se debe mostrar el siguiente mensaje:
      * "Esto funciona de maravilla"
+     * 
      */
     public static void main(String[] args) {
         
