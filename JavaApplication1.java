@@ -21,13 +21,9 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         
-        int numuno;
-        System.out.println("Bienvenido");
-        Scanner miscan= new Scanner(System.in);
-        System.out.println("Ingrese número: ");
-        numuno= miscan.nextInt();
-        System.out.println("El numero es: " +numuno);
-        // TODO code application logic here
-    }
+        System.out.println("Esto funciona de maravilla.");
+       
+       
     
-}
+  
+    }
