@@ -13,8 +13,8 @@ import java.util.Scanner;
  */
 public class JavaEjercicio6 {
 
-    /**
-     * @param args the command line arguments
+    /**Se piden tres números e informar el promedio.
+     *
      */
     public static void main(String[] args) {
         int nota1 ,nota2 ,nota3 ;
