@@ -14,7 +14,8 @@ import java.util.Scanner;
 public class JavaEjercicio12 {
 
     /**
-     * @param args the command line arguments
+     * Se ingresa el importe de un producto importado y se le debe agregar el 35 % de impuestos
+       internos.
      */
     public static void main(String[] args) {
      int num;
